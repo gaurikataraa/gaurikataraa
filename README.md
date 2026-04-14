@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Gauri Katara 👋
+# Hi there, I'm Gauri Katara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### Senior Java Backend Developer | 7+ Years | Spring Boot · Kafka · AWS · Kubernetes
 
@@ -69,11 +69,11 @@
 
 <div align="center">
 
-![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurikatara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurikataraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikatara&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikataraa&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurikatara&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurikataraa&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -108,7 +108,7 @@ public class CurrentFocus {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurikatara&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurikataraa&theme=tokyo-night&hide_border=true)
 
 </div>
 
