@@ -84,21 +84,6 @@
 
 ---
 
-## 🎯 Currently Focused On
-
-```java
-public class CurrentFocus {
-
-    String[] learning     = {"Data Structures", "Algorithms", "System Design"};
-    String[] building     = {"Backend Projects", "Technical Blog", "Open Source"};
-    String[] lookingFor   = {"Senior Backend Roles", "Product-based Companies"};
-    String   writing      = "Real-world Java backend engineering articles";
-
-}
-```
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
