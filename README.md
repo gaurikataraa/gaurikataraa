@@ -24,7 +24,6 @@
 - 📚 Currently studying **Data Structures & Algorithms** to level up
 - ✍️ I write about real-world backend engineering on **Medium & Hashnode**
 - 🎤 Serving as a **Technical Interview Panelist**
-- 📍 Based in **Noida, India**
 
 ---
 
@@ -68,10 +67,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurikataraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikatara&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurikataraa&theme=tokyonight&hide_border=true)
 
